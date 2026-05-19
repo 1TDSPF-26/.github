@@ -109,4 +109,8 @@
   </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1TDSPF-26&color=6b8e23&label_color=000000&style=for-the-badge&label=VISITORS" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/1TDSPF-26?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=556b2f&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/1TDSPF-26?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=556b2f&label=STARS"/>
+</p>
