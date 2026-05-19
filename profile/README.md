@@ -48,7 +48,19 @@
 
 ###
 
-<h1 align="center">👥 Integrantes da Turma</h1>
+<div>
+<h1 align="center"> 🔗 Links Úteis 🔗</h1>
+  <p  align="center">Dontpad da nossa turma:</p>
+  <p  align="center">https://dontpad.com/1TDSPF-26</p>
+  <p  align="center">w3schools:</p>
+  <p align="center">https://www.w3schools.com</p>
+  <p  align="center">MDN:</p>
+  <p align="center">https://developer.mozilla.org/pt-BR/</p>
+</div>
+
+
+---
+<h1 align="center">👥 Integrantes da Turma</h1> 👥
 
 <p align="center">Nossos alunos e colaboradores que fazem parte deste ambiente de aprendizado. Clicando no avatar, você visita o perfil do GitHub de cada participante:</p>
 
