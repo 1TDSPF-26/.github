@@ -60,7 +60,7 @@
 
 
 ---
-<h1 align="center">👥 Integrantes da Turma</h1> 👥
+<h1 align="center">👥 Integrantes da Turma 👥</h1> 
 
 <p align="center">Nossos alunos e colaboradores que fazem parte deste ambiente de aprendizado. Clicando no avatar, você visita o perfil do GitHub de cada participante:</p>
 
