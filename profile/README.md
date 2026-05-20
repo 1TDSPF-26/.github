@@ -1,67 +1,88 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&text=1TDSPF&fontSize=70&fontColor=BAB86C&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Alexandre%20Carlos%20De%20Jesus&descSize=15&descAlign=50&descAlignY=88&textBg=false&color=556b2f"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&text=1TDSPF&fontSize=70&fontColor=BAB86C&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Alexandre%20Carlos%20De%20Jesus&descSize=15&descAlign=50&descAlignY=88&textBg=false&color=556b2f" />
 </div>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG93YzhleWptOGlteDJ0NTBvNnBuNTFsaHp0emZ6a3hrb2IzZWI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K9bdJrL8fHG24/giphy.gif"  />
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG93YzhleWptOGlteDJ0NTBvNnBuNTFsaHp0emZ6a3hrb2IzZWI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K9bdJrL8fHG24/giphy.gif" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="52" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="52" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="52" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="52" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="52" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="52" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo" />
 </div>
 
 ###
 
-<h1 align="center">Olá turma</h1>
-
-###
+<h1 align="center">👋 | Olá turma </h1>
 
 <h4 align="center">Este é o espaço oficial onde centralizaremos todos os códigos, exemplos e materiais de apoio desenvolvidos durante os nossos encontros. O objetivo desta organização é facilitar o acesso de vocês aos recursos práticos da disciplina.</h4>
 
 ###
 
-<h1 align="center">📖 leia com atenção 📖</h1>
+<h1 align="center">📖 | Leia com atenção </h1>
+
+<p align="center"><b>Para manter nossos estudos organizados e fáceis de acompanhar, utilizaremos a seguinte dinâmica:</b><br><br>1. Um repositório por aula/tema: A cada nova aula, eu subirei um repositório atualizado contendo o código-fonte construído ao vivo, comentários explicativos e eventuais exercícios.<br><br>2. Nomenclatura Padrão: Os repositórios seguirão o formato 'matéria-semestre-aula-00' (Ex: 'front-1sem-aula-01').<br><br>3. Atualizações: Os códigos são disponibilizados logo após o início da nossa aula.</p>
 
 ###
 
-<p align="center">Para manter nossos estudos organizados e fáceis de acompanhar, utilizaremos a seguinte dinâmica:<br><br>1. Um repositório por aula/tema: A cada nova aula, eu subirei um repositório atualizado contendo o código-fonte construído ao vivo, comentários explicativos e eventuais exercícios.<br>2. Nomenclatura Padrão: Os repositórios seguirão o formato `matéria-semestre-aula-00` (Ex: `front-1sem-aula-01`).<br>3. Atualizações: Os códigos são disponibilizados logo após o inicio da nossa aula.</p>
+<h1 align="center">📅 | Cronograma de Conteúdos </h1>
+<p align="center">Acesse rapidamente a lista completa de repositórios das nossas aulas práticas:</p>
+
+<div align="center">
+
+| Conteúdo | Link de Acesso |
+| :--- | :---: |
+| 📚 **Todos os Repositórios da Turma** | [Acessar 🚀](https://github.com/orgs/1TDSPF-26/repositories) |
+
+</div>
 
 ###
 
 <div>
-<h1 align="center"> 🔗 Links Úteis 🔗</h1>
-  <p  align="center">Dontpad da nossa turma:</p>
-  <p  align="center">https://dontpad.com/1TDSPF-26</p>
-  <p  align="center">w3schools:</p>
-  <p align="center">https://www.w3schools.com</p>
-  <p  align="center">MDN:</p>
-  <p align="center">https://developer.mozilla.org/pt-BR/</p>
+<h1 align="center"> 🔗 | Links Úteis </h1>
+  <p align="center"><b>Dontpad da nossa turma:</b></p>
+  <p align="center"><a href="https://dontpad.com/1TDSPF-26" target="_blank">Acesso ao DontPad</a></p>
+  <br>
+  <p align="center"><b>w3schools:</b></p>
+  <p align="center"><a href="https://www.w3schools.com" target="_blank">https://www.w3schools.com</a></p>
+  <br>
+  <p align="center"><b>MDN Web Docs:</b></p>
+  <p align="center"><a href="https://developer.mozilla.org/pt-BR/" target="_blank">https://developer.mozilla.org/pt-BR/</a></p>
+  <br>
+  <p align="center"><b>ARÍETE:</b></p>
+  <p align="center"><a href="https://opal.google/app/1piCs_zGlleVSLW7bVpXF5exMNfrXfhJK/" target="_blank">Clique aqui para acessar o Aríete</a></p>
 </div>
 
+###
 
----
-<h1 align="center">👥 Integrantes da Turma 👥</h1> 
+<h1 align="center">🛠️ | Ferramentas Recomendadas </h1>
+<p align="center">Para acompanhar as aulas, certifique-se de ter instalado em sua máquina:</p>
+<p align="center">
+  • <b>Visual Studio Code</b> (Com as extensões: <i>Live Server</i> e <i>Prettier</i>)<br>
+  • <b>Git</b> (Configurado com sua conta do GitHub)<br>
+  • <b>Navegadores recomendados</b> (Google Chrome, Microsoft Edge ou Firefox)
+</p>
 
+###
+
+<h1 align="center">👥 | Integrantes da Turma </h1> 
 <p align="center">Nossos alunos e colaboradores que fazem parte deste ambiente de aprendizado. Clicando no avatar, você visita o perfil do GitHub de cada participante:</p>
 
 <br>
@@ -84,30 +105,30 @@
     <td align="center"><a href="https://github.com/jmgouveiaalmeida-afk"><img style="border-radius: 50%;" src="https://github.com/jmgouveiaalmeida-afk.png" width="60px;" alt=""/><br /><sub><b>J. Gouveia</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/katpeaga"><img style="border-radius: 50%;" src="https://github.com/katpeaga.png" width="60px;" alt=""/><br /><sub><b>Katerine</b></sub></a></td>
     <td align="center"><a href="https://github.com/kauansilva1472"><img style="border-radius: 50%;" src="https://github.com/kauansilva1472.png" width="60px;" alt=""/><br /><sub><b>Kauã Silva</b></sub></a></td>
-    <td align="center"><a href="https://github.com/leandro-rodriguess"><img style="border-radius: 50%;" src="https://github.com/leandro-rodriguess.png" width="60px;" alt=""/><br /><sub><b>Leandro Barbosa</b></sub></a></td>
     <td align="center"><a href="https://github.com/lkoprowskif"><img style="border-radius: 50%;" src="https://github.com/lkoprowskif.png" width="60px;" alt=""/><br /><sub><b>Larissa K.</b></sub></a></td>
     <td align="center"><a href="https://github.com/luisfelipe-fernandesesteves"><img style="border-radius: 50%;" src="https://github.com/luisfelipe-fernandesesteves.png" width="60px;" alt=""/><br /><sub><b>Luis Fernandes</b></sub></a></td>
     <td align="center"><a href="https://github.com/luishdev0"><img style="border-radius: 50%;" src="https://github.com/luishdev0.png" width="60px;" alt=""/><br /><sub><b>Luis H. Dev</b></sub></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/LuizHenriqueAAlbarello"><img style="border-radius: 50%;" src="https://github.com/LuizHenriqueAAlbarello.png" width="60px;" alt=""/><br /><sub><b>Luiz Albarello</b></sub></a></td>
     <td align="center"><a href="https://github.com/LuizVMaciel"><img style="border-radius: 50%;" src="https://github.com/LuizVMaciel.png" width="60px;" alt=""/><br /><sub><b>Luiz Eduardo</b></sub></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/MariMari-Ramos"><img style="border-radius: 50%;" src="https://github.com/MariMari-Ramos.png" width="60px;" alt=""/><br /><sub><b>Mari Ramos</b></sub></a></td>
     <td align="center"><a href="https://github.com/MatheusRodriguesSerrao"><img style="border-radius: 50%;" src="https://github.com/MatheusRodriguesSerrao.png" width="60px;" alt=""/><br /><sub><b>Matheus Serrão</b></sub></a></td>
     <td align="center"><a href="https://github.com/ogmatheus7"><img style="border-radius: 50%;" src="https://github.com/ogmatheus7.png" width="60px;" alt=""/><br /><sub><b>Matheus OG</b></sub></a></td>
     <td align="center"><a href="https://github.com/pedrolimeisdev"><img style="border-radius: 50%;" src="https://github.com/pedrolimeisdev.png" width="60px;" alt=""/><br /><sub><b>Pedro Lima</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/pivattidev"><img style="border-radius: 50%;" src="https://github.com/pivattidev.png" width="60px;" alt=""/><br /><sub><b>Pivatti</b></sub></a></td>
     <td align="center"><a href="https://github.com/rodrigo15511"><img style="border-radius: 50%;" src="https://github.com/rodrigo15511.png" width="60px;" alt=""/><br /><sub><b>Rodrigo</b></sub></a></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/pivattidev"><img style="border-radius: 50%;" src="https://github.com/pivattidev.png" width="60px;" alt=""/><br /><sub><b>Pivatti</b></sub></a></td>
   </tr>
 </table>
+
+###
+
+<h1 align="center">🤔 | Dúvidas? </h1>
+<p align="center">Caso tenha alguma dúvida relacionada à matéria ou à realização de projetos, envie uma mensagem!</p>
+<p align="center"> 👤 <b>Teams:</b> Alexandre Carlos de Jesus <br> 📧 <b>E-mail:</b> profalexandre.jesus@fiap.com.br </p>
+
+###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1TDSPF-26&color=6b8e23&label_color=000000&style=for-the-badge&label=VISITORS" alt="Visitors" />
