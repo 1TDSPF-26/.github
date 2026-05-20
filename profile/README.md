@@ -55,6 +55,19 @@
 
 ###
 
+<h1 align="center">🏠 | Tarefas de Casa </h1>
+<p align="center">Acompanhe aqui as atividades práticas e desafios para fixação do conteúdo:</p>
+
+<div align="center">
+
+| Atividade / Desafio | Status | Prazo |
+| :--- | :---: | :---: |
+| Challenge | 🟩 Liberado | 24 / 05 |
+
+</div>
+
+###
+
 <div>
 <h1 align="center"> 🔗 | Links Úteis </h1>
   <p align="center"><b>Dontpad da nossa turma:</b></p>
@@ -75,7 +88,10 @@
 <h1 align="center">🛠️ | Ferramentas Recomendadas </h1>
 <p align="center">Para acompanhar as aulas, certifique-se de ter instalado em sua máquina:</p>
 <p align="center">
-  • <b>Visual Studio Code</b> (Com as extensões: <i>Live Server</i> e <i>Prettier</i>)<br>
+  • <b>Visual Studio Code</b> com as extensões básicas:<br>
+  <br><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank"><img src="https://img.shields.io/badge/Live_Server-v5.7.0-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Live Server"/></a>
+  <br><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank"><img src="https://img.shields.io/badge/Prettier-v10.4.0-orange?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Prettier"/></a>
+  <br><br>
   • <b>Git</b> (Configurado com sua conta do GitHub)<br>
   • <b>Navegadores recomendados</b> (Google Chrome, Microsoft Edge ou Firefox)
 </p>
@@ -126,7 +142,7 @@
 
 <h1 align="center">🤔 | Dúvidas? </h1>
 <p align="center">Caso tenha alguma dúvida relacionada à matéria ou à realização de projetos, envie uma mensagem!</p>
-<p align="center"> 👤 <b>Teams:</b> Alexandre Carlos de Jesus <br> 📧 <b>E-mail:</b> profalexandre.jesus@fiap.com.br </p>
+<p align="center"> 👤 <b>Teams:</b> Alexandre Carlos de Jesus <br> 📧 <b>E-mail:</b> <a href="mailto:profalexandre.jesus@fiap.com.br">profalexandre.jesus@fiap.com.br</a> </p>
 
 ###
 
