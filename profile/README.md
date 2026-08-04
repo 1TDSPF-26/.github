@@ -62,7 +62,8 @@
 
 | Atividade / Desafio | Status | Prazo |
 | :--- | :---: | :---: |
-| Challenge | 🟩 Liberado | 24 / 05 |
+| Challenge | ❌ Encerrado | 24 / 05 |
+| GS | ❌ Encerrado | 09 / 06 |
 
 </div>
 
@@ -135,6 +136,13 @@
     <td align="center"><a href="https://github.com/pedrolimeisdev"><img style="border-radius: 50%;" src="https://github.com/pedrolimeisdev.png" width="60px;" alt=""/><br /><sub><b>Pedro Lima</b></sub></a></td>
     <td align="center"><a href="https://github.com/rodrigo15511"><img style="border-radius: 50%;" src="https://github.com/rodrigo15511.png" width="60px;" alt=""/><br /><sub><b>Rodrigo</b></sub></a></td>
     <td align="center"><a href="https://github.com/pivattidev"><img style="border-radius: 50%;" src="https://github.com/pivattidev.png" width="60px;" alt=""/><br /><sub><b>Pivatti</b></sub></a></td>
+    <td align="center"><a href="https://github.com/lenahalawi07"><img style="border-radius: 50%;" src="https://github.com/lenahalawi07.png" width="60px;" alt=""/><br /><sub><b>Lena Halawi</b></sub></a</td>
+    <td align="center"><a href="https://github.com/Giovvane"><img style="border-radius: 50%;" src="https://github.com/Giovvane.png" width="60px;" alt=""/><br /><sub><b>Giovane</b></sub></a></td>
+    <td align="center"><a href="https://github.com/dhiegobelmonte"><img style="border-radius: 50%;" src="https://github.com/dhiegobelmonte.png" width="60px;"/><br /><sub><b>Dhiego Belmonte</b></sub></a></td>
+    <td align="center"><a href="https://github.com/manuelalramos"><img style="border-radius: 50%;" src="https://github.com/manuelalramos.png" width="60px;"/><br /><sub><b>Manuela Ramos</b></sub></a></td>
+    <td align="center"><a href="https://github.com/arthurarrudaa"><img style="border-radius: 50%;" src="https://github.com/arthurarrudaa.png" width="60px;"/><br /><sub><b>Arthur Arruda</b></sub></a></td>
+  </tr>
+  <tr>
   </tr>
 </table>
 
