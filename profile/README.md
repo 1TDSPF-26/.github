@@ -143,6 +143,7 @@
     <td align="center"><a href="https://github.com/dhiegobelmonte"><img style="border-radius: 50%;" src="https://github.com/dhiegobelmonte.png" width="60px;"/><br /><sub><b>Dhiego Belmonte</b></sub></a></td>
     <td align="center"><a href="https://github.com/manuelalramos"><img style="border-radius: 50%;" src="https://github.com/manuelalramos.png" width="60px;"/><br /><sub><b>Manuela Ramos</b></sub></a></td>
     <td align="center"><a href="https://github.com/arthurarrudaa"><img style="border-radius: 50%;" src="https://github.com/arthurarrudaa.png" width="60px;"/><br /><sub><b>Arthur Arruda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/yasminmartins18"><img style="border-radius: 50%;" src="https://github.com/yasminmartins18.png" width="60px;"/><br /><sub><b>Yasmin Martins</b></sub></a></td>
   </tr>
 </table>
 
