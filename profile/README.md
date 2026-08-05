@@ -17,12 +17,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="52" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="52" alt="React logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="52" alt="TypeScript logo" />
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo" />
