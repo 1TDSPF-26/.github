@@ -74,8 +74,8 @@
 | :--- | :---: | :---: |
 | Challenge Sprints 1 & 2 | ❌ Encerrado | 24 / 05 |
 | GS | ❌ Encerrado | 09 / 06 |
-| Challenge Sprints 3 | ✅ Aberto | 13 / 09 |
-| Challenge Sprints 4 | ⏳ Não iniciado | 04 / 11 |
+| Challenge Sprints 3 | ❌ Encerrado | 13 / 09 |
+| Challenge Sprints 4 | ✅ Aberto | 14 / 11 |
 
 </div>
 
