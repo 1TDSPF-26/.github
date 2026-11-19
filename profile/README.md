@@ -76,6 +76,7 @@
 | GS | ❌ Encerrado | 09 / 06 |
 | Challenge Sprints 3 | ❌ Encerrado | 13 / 09 |
 | Challenge Sprints 4 | ❌ Encerrado | 24 / 10 |
+| GS | ❌ Encerrado | 19 / 11 |
 
 </div>
 
